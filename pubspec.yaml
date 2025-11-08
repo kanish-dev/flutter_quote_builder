@@ -1,0 +1,28 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Default icons
+  cupertino_icons: ^1.0.8
+
+  # ✅ Required for quote app
+  intl: ^0.18.0        # For currency/date formatting
+  pdf: ^3.10.6         # For generating printable PDFs
+  printing: ^5.13.1    # For print/preview/share PDF
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
