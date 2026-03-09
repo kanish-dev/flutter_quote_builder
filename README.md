@@ -36,7 +36,7 @@ A Flutter app to create, preview, and download professional quotes or invoices w
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 * **Flutter 3.19+**
 * **Dart**
@@ -46,7 +46,7 @@ A Flutter app to create, preview, and download professional quotes or invoices w
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/kanish-dev/flutter_quote_builder.git
@@ -57,7 +57,7 @@ flutter run
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Quote Form                           | Quote Preview                                    | PDF Download                                |
 | ------------------------------------ | ------------------------------------------------ | ------------------------------------------- |
@@ -65,7 +65,7 @@ flutter run
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 * Cloud sync for saved quotes
 * Email or WhatsApp PDF directly
@@ -73,7 +73,7 @@ flutter run
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kanishka R Reddy**
 📍 Karnataka, India
