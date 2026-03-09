@@ -1,4 +1,4 @@
-# 🧾 Flutter Quote Builder
+#  Flutter Quote Builder
 
 A Flutter app to create, preview, and download professional quotes or invoices with auto-calculations, tax handling, and responsive design.
 
